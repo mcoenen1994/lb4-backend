@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Partner": 7
+  },
+  "models": {
+    "Partner": {
+      "1": "{\"name\":\"entrust\",\"image\":\"entrust.webp\",\"id\":1,\"subphase\":\"Sign NDA\"}",
+      "2": "{\"name\":\"20face\",\"image\":\"20face.webp\",\"id\":2,\"subphase\":\"Introduction\"}",
+      "3": "{\"name\":\"blueid\",\"image\":\"blueid.webp\",\"id\":3,\"subphase\":\"Introduction\"}",
+      "4": "{\"id\":4,\"name\":\"MACE\",\"image\":\"MACE.webp\",\"subphase\":\"Introduction\"}",
+      "5": "{\"id\":5,\"name\":\"mace\",\"image\":\"mace.webp\",\"subphase\":\"Introduction\"}"
+    }
+  }
+}
